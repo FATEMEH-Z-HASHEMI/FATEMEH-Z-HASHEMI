@@ -40,8 +40,6 @@ What I care about:
 - **Type safety** — TypeScript as a design tool, not an afterthought
 - **Responsive by default** — mobile, tablet, and desktop treated as first-class, not an edit pass
 
-Currently deepening: <!-- TODO: e.g. "Next.js App Router, motion design with Framer Motion" -->
-
 <br clear="right"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2" />
