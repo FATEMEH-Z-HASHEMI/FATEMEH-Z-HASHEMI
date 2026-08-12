@@ -18,7 +18,7 @@
 <br/><br/>
 
 <a href="https://github.com/FATEMEH-Z-HASHEMI"><img src="https://img.shields.io/badge/GitHub-FATEMEH--Z--HASHEMI-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/fatemeh-hashemi-433971362/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!-- TODO: real LinkedIn URL -->
+<a href="https://www.linkedin.com/in/fatemeh-z-hashemi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!-- TODO: real LinkedIn URL -->
 <a href="mailto:fatemehzahrahashemi0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" /></a> <!-- TODO: real email -->
 
 </div>
@@ -116,6 +116,6 @@ see the setup steps you already have. Once the "output" branch exists, this rend
 
 **Fatemeh zahra Hashemi** — Front-End Developer & UI Designer
 <br/>
-<a href="https://github.com/FATEMEH-Z-HASHEMI">GitHub</a> · <a href="https://www.linkedin.com/in/fatemeh-hashemi-433971362/">LinkedIn</a> · <a href="mailto:fatemehzahrahashemi0@gmail.com">Email</a>
+<a href="https://github.com/FATEMEH-Z-HASHEMI">GitHub</a> · <a href="https://www.linkedin.com/in/fatemeh-z-hashemi/">LinkedIn</a> · <a href="mailto:fatemehzahrahashemi0@gmail.com">Email</a>
 
 </div>
