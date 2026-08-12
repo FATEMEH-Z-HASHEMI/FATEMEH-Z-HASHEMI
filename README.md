@@ -116,6 +116,6 @@ see the setup steps you already have. Once the "output" branch exists, this rend
 
 **Fatemeh Hashemi** — Front-End Developer & UI Designer
 <br/>
-<a href="https://github.com/FATEMEH-Z-HASHEMI">GitHub</a> · <a href="#">LinkedIn</a> · <a href="mailto:your-email@example.com">Email</a>
+<a href="https://github.com/FATEMEH-Z-HASHEMI">GitHub</a> · <a href="https://www.linkedin.com/in/fatemeh-hashemi-433971362/">LinkedIn</a> · <a href="mailto:fatemehzahrahashemi0@gmail.com">Email</a>
 
 </div>
