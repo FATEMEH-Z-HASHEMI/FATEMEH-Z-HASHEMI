@@ -114,7 +114,7 @@ see the setup steps you already have. Once the "output" branch exists, this rend
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:0A0A0A&height=120&section=footer" />
 
-**Fatemeh Hashemi** — Front-End Developer & UI Designer
+**Fatemeh zahra Hashemi** — Front-End Developer & UI Designer
 <br/>
 <a href="https://github.com/FATEMEH-Z-HASHEMI">GitHub</a> · <a href="https://www.linkedin.com/in/fatemeh-hashemi-433971362/">LinkedIn</a> · <a href="mailto:fatemehzahrahashemi0@gmail.com">Email</a>
 
