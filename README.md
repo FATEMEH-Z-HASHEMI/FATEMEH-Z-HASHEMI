@@ -67,7 +67,7 @@ What I care about:
 **Tooling**
 <br/>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vite,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode,docker&theme=dark" />
 
 </div>
 
