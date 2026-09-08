@@ -51,7 +51,7 @@ What I care about:
 **Frontend**
 <br/>
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
 
 <br/><br/>
 
