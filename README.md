@@ -68,7 +68,7 @@ What I care about:
 <br/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vite,vscode,docker,expo&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode,docker&theme=dark" />
 
 </div>
 
